@@ -1,0 +1,2 @@
+Expenses reviewed: 3
+Recursive expense total: Rs. 2500.00
