@@ -1,0 +1,2 @@
+Account: Kiran Patel | balance Rs. 12000.00
+Latest transaction: Withdrawal Rs. 2000.00
