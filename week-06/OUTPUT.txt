@@ -1,0 +1,3 @@
+Search Rent -> Rs. -2000.00
+Largest debit: Rent (Rs. 2000.00)
+Transactions tracked: 3
