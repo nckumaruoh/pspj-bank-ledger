@@ -1,0 +1,3 @@
+After deposit: Rs. 14000.00
+After withdrawal: Rs. 12000.00
+Transaction status: completed
