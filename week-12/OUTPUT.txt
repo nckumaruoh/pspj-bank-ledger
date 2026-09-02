@@ -1,0 +1,7 @@
+PERSONAL BANK LEDGER - FINAL RELEASE
+Opening balance: Rs. 12500.00
+Closing balance: Rs. 11650.00
+Deposits: Rs. 1500.00
+Withdrawals: Rs. 2350.00
+Largest debit: Rent (Rs. 2000.00)
+Categories: Deposit=1, Expense=2
