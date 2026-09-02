@@ -1,0 +1,5 @@
+=== Personal Bank Ledger & Statement Generator ===
+Account holder: Kiran Patel
+Opening balance: Rs. 12500.00
+Sample deposit: Rs. 1500.00
+Next: calculate transactions and balances in Week 2.
