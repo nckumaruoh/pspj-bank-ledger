@@ -1,0 +1,4 @@
+Deposit accepted: Rs. 500.00
+Withdrawal rejected: insufficient funds.
+Invalid amount rejected.
+Current balance: Rs. 1500.00
