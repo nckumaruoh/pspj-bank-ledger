@@ -1,0 +1,7 @@
+=== LEDGER MENU ===
+1. Record deposit
+2. Record withdrawal
+3. View statement
+Deposit Rs. 1500.00 -> balance Rs. 14000.00
+Withdrawal Rs. 2000.00 -> balance Rs. 12000.00
+Transactions processed: 2
